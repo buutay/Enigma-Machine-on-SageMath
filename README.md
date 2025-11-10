@@ -1,4 +1,4 @@
-# Enigma-Machine-0n-SageMath
+# Enigma-Machine-on-SageMath
 Simulation of the Enigma cipher machine on SageMath using a mathematical model through permutations
 1. Enigma.ipynb - code
 2. pg1056.txt - the book (you can test it on another one later, just look for English and utf-8)
